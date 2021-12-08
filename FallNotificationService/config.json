@@ -1,0 +1,9 @@
+﻿{
+  "public_url": "[your public url]",
+  "telegram_token": "[your token]",
+  "server_urls": [
+    "http://*:8080/"
+  ]
+
+
+}
